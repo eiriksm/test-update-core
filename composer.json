@@ -42,6 +42,9 @@
                 "web-root": "web/"
             }
         },
+        "violinist": {
+          "security_updates_only": 1
+        },
         "installer-paths": {
             "web/core": [
                 "type:drupal-core"
